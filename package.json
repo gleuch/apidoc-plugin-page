@@ -1,0 +1,27 @@
+{
+  "name": "apidoc-plugin-page",
+  "version": "1.0.0",
+  "description": "Generates an apidoc plugin with a defined page entry",
+  "main": "./index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleuch/apidoc-plugin-page.git"
+  },
+  "keywords": [
+    "apidoc",
+    "plugin",
+    "documentation"
+  ],
+  "author": "Greg Leuch <contact@gleu.ch>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gleuch/apidoc-plugin-page/issues"
+  },
+  "homepage": "https://github.com/gleuch/apidoc-plugin-page#readme",
+  "dependencies": {
+    "apidoc-core": "^0.8.3"
+  }
+}
