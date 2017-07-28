@@ -33,8 +33,9 @@ The generated `api_data.json` should now include a block like
 
 
 ## Todos
-[x] Parse `@apiPage`
-[ ] Allow definition within `@apiDefine`
-[ ] Publish node module
-[ ] Finalize APIDoc template
-[ ] Publish APIDoc template
+
+- [x] Parse `@apiPage`
+- [ ] Allow definition within `@apiDefine`
+- [ ] Publish node module
+- [ ] Finalize APIDoc template
+- [ ] Publish APIDoc template
